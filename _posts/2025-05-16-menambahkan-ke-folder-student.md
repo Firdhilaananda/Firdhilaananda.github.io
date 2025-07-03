@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menambahkan ke folder repository lain
+title: Menambahkan ke Folder Repository Lain
 ---
 
 Menambahkan ke folder repository lain

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Install jekyll dan membuat index.html
+title: Install Jekyll dan Membuat index.html
 ---
 
 Install jekyll dan membuat index.html

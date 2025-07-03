@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Install aplikasi, tools yang diperlukan dan membuat akun GitHub
+title: Install Aplikasi, Tools, dan Membuat Akun GitHub
 ---
 
-install aplikai dan membuat akun github
+Install aplikasi dan membuat akun github
 
 
 
